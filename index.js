@@ -349,7 +349,7 @@ var main = (data, increase) => {
 					this_obj.append('p')
 						.attr('id', 'indcl')
 						.append('i')
-						.text('indeclinable')
+						.text('несклоняемый')
 						
 				}	
 			}
